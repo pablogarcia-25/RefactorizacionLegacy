@@ -5,19 +5,23 @@ package facturacion;
  * ADVERTENCIA: Código con alta deuda técnica. No modificar la firma del método.
  */
 public class FacturacionLegacy {
-    public double cT(double m, int tC, boolean dV) {
+    public double calcularTotal(double importe, int tipoCliente, boolean descuentoVip) {
 
-        if (m <= 0) {
+        if (importe <= 0) {
             return 0;
         }
-        if (tC == 1) {
-            return dV ? (m - (m * 0.25)) : (m - (m * 0.15));
+        if (tipoCliente == 1 && descuentoVip) {
+            return importe - (importe * 0.25);
         }
 
-        if (tC == 2) {
-            return m - (m * 0.05);
+        if (tipoCliente == 1) {
+            return importe - (importe * 0.15);
         }
 
-        return m;
+        if (tipoCliente == 2) {
+            return importe - (importe * 0.05);
+        }
+        
+        return importe;
     }
 }
