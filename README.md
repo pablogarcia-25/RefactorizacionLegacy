@@ -9,4 +9,6 @@ Como la propia tarea indica, hemos encontrado en el método grandes problemas. N
 
 ## Fase 2: Refactorización Asistida por el IDE 
 Nuestra refactorizacion cumple la regla de M=C+1 ya que solo usamos 4 condiconales de los 4 que se recomiendan como maximo y nuestra Complejidad diplomática es de 4.
+![IMAGEN TEST](assets/test.png)
+
 ## Fase 3: Verificación, Documentación y Entrega
