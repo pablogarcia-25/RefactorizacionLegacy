@@ -51,4 +51,3 @@ public class FacturacionLegacyTest {
             "Fallo: Importes negativos deben devolver 0");
     }
 }
-
