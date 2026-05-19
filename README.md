@@ -8,5 +8,5 @@ Tras varios errores mientras pablo y yo actuábamos como copiloto y piloto a la 
 Como la propia tarea indica, hemos encontrado en el método grandes problemas. Nombre de las variables que sin contexto no sabemos que es, codigo spaguetti o números mágicos.
 
 ## Fase 2: Refactorización Asistida por el IDE 
-
+Nuestra refactorizacion cumple la regla de M=C+1 ya que solo usamos 4 condiconales de los 4 que se recomiendan como maximo y nuestra Complejidad diplomática es de 4.
 ## Fase 3: Verificación, Documentación y Entrega
