@@ -14,3 +14,8 @@ Nuestra refactorizacion cumple la regla de M=C+1 ya que solo usamos 4 condiconal
 ![IMAGEN TEST](assets/test.png)
 
 ## Fase 3: Verificación, Documentación y Entrega
+Para esta fase, Alejandro ha añadido el javadoc al codigo fuente, el javadoc se crea automaticamente pulsando /** y además, nosotros hemos añadido que hace cada param y el return.
+
+![IMAGEN TEST](assets/javadoc.png)
+
+En esta imagen se puede comprobar como hemos realizado el javadoc con sus explicaciones correspondientes.
