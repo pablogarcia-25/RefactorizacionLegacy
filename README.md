@@ -9,10 +9,12 @@ Como la propia tarea indica, hemos encontrado en el método grandes problemas. N
 
 ## Fase 2: Refactorización Asistida por el IDE 
 Nuestra refactorizacion cumple la regla de M=C+1 ya que solo usamos 4 condiconales de los 4 que se recomiendan como maximo y nuestra Complejidad diplomática es de 4.
+
 ![IMAGEN TEST](assets/test.png)
 
 Para el cambio de nombre, hemos utilizado las herramientas automáticas para cambiar los nombres a todas las variables en todo el documento y no una por una. Para cambiar el nombre hemos echo los siguiente: ***clic derecho/refactor/rename/New Name***.
-![IMAGEN CAMBIO NOMBRE](assets/cambio-nombre)
+
+![IMAGEN CAMBIO NOMBRE](assets/cambio-nombre.png)
 
 
 
