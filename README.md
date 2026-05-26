@@ -12,7 +12,7 @@ Nuestra refactorizacion cumple la regla de M=C+1 ya que solo usamos 4 condiconal
 ![IMAGEN TEST](assets/test.png)
 
 Para el cambio de nombre, hemos utilizado las herramientas automáticas para cambiar los nombres a todas las variables en todo el documento y no una por una. Para cambiar el nombre hemos echo los siguiente: ***clic derecho/refactor/rename/New Name***.
-![IMAGEN CAMBIO NOMBRE](assets/cambio-Nombre)
+![IMAGEN CAMBIO NOMBRE](assets/cambio-nombre)
 
 
 
